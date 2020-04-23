@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(215, 226, 228);
+}
+h1,h2 {
+  color: darkblue;
+}
+p {
+  color: red; font-style: Arial, Georgia
+}
